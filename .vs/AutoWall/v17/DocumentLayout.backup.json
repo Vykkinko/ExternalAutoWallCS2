@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B29E6C90-690C-497B-822E-4F3783915DCF}|AutoWall.vcxproj|C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\Math.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29E6C90-690C-497B-822E-4F3783915DCF}|AutoWall.vcxproj|solutionrelative:Math.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29E6C90-690C-497B-822E-4F3783915DCF}|AutoWall.vcxproj|C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\Parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29E6C90-690C-497B-822E-4F3783915DCF}|AutoWall.vcxproj|solutionrelative:Parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29E6C90-690C-497B-822E-4F3783915DCF}|AutoWall.vcxproj|C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\Parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29E6C90-690C-497B-822E-4F3783915DCF}|AutoWall.vcxproj|solutionrelative:Parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29E6C90-690C-497B-822E-4F3783915DCF}|AutoWall.vcxproj|C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\vischeck_module.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29E6C90-690C-497B-822E-4F3783915DCF}|AutoWall.vcxproj|solutionrelative:vischeck_module.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29E6C90-690C-497B-822E-4F3783915DCF}|AutoWall.vcxproj|C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\VisCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29E6C90-690C-497B-822E-4F3783915DCF}|AutoWall.vcxproj|solutionrelative:VisCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29E6C90-690C-497B-822E-4F3783915DCF}|AutoWall.vcxproj|C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\VisCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29E6C90-690C-497B-822E-4F3783915DCF}|AutoWall.vcxproj|solutionrelative:VisCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VisCheck.h",
+              "DocumentMoniker": "C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\VisCheck.h",
+              "RelativeDocumentMoniker": "VisCheck.h",
+              "ToolTip": "C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\VisCheck.h",
+              "RelativeToolTip": "VisCheck.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T17:34:07.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VisCheck.cpp",
+              "DocumentMoniker": "C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\VisCheck.cpp",
+              "RelativeDocumentMoniker": "VisCheck.cpp",
+              "ToolTip": "C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\VisCheck.cpp",
+              "RelativeToolTip": "VisCheck.cpp",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-14T17:34:06.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parser.h",
+              "DocumentMoniker": "C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\Parser.h",
+              "RelativeDocumentMoniker": "Parser.h",
+              "ToolTip": "C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\Parser.h",
+              "RelativeToolTip": "Parser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T17:34:06.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parser.cpp",
+              "DocumentMoniker": "C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\Parser.cpp",
+              "RelativeDocumentMoniker": "Parser.cpp",
+              "ToolTip": "C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\Parser.cpp",
+              "RelativeToolTip": "Parser.cpp",
+              "ViewState": "AgIAABQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-14T17:34:05.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Math.hpp",
+              "DocumentMoniker": "C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\Math.hpp",
+              "RelativeDocumentMoniker": "Math.hpp",
+              "ToolTip": "C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\Math.hpp",
+              "RelativeToolTip": "Math.hpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T17:34:04.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vischeck_module.cpp",
+              "DocumentMoniker": "C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\vischeck_module.cpp",
+              "RelativeDocumentMoniker": "vischeck_module.cpp",
+              "ToolTip": "C:\\Users\\VyKk\\Documents\\GitHub\\ExternalAutoWallCS2\\vischeck_module.cpp",
+              "RelativeToolTip": "vischeck_module.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-14T17:34:03.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

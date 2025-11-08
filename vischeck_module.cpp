@@ -1,5 +1,3 @@
-#include <pybind11/pybind11.h>
-#include <pybind11/stl.h>
 #include <cmath>
 #include <tuple>
 #include <vector>
@@ -10,7 +8,6 @@
 #include "Math.hpp"
 #include <iostream>
 
-namespace py = pybind11;
 
 float distance(const Vector3& a, const Vector3& b) {
     return std::sqrt(
@@ -109,16 +106,3 @@ public:
 private:
     VisCheck checker;
 };
-
-PYBIND11_MODULE(AutoWall, m) {
-    py::class_<VisCheckWrapper>(m, "VisCheck")
-        .def(py::init<const std::string&>())
-        .def("handle_bullet_penetration",
-            &VisCheckWrapper::handle_bullet_penetration,
-            py::arg("shooter"),
-            py::arg("target"),
-            py::arg("base_damage"),
-            py::arg("range_modifier"),
-            py::arg("penetration_power"),
-            py::arg("material_data"));
-}
